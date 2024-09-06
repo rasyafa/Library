@@ -50,7 +50,7 @@
 				?>
                     <a href="galeri.php?kat=<?php echo $k['category_id'] ?>">
                         <div class="col-5">
-                            <img src="img/icon.png" width="50px" style="margin-bottom:5px;" />
+                            <img src="img/lg.jpg" width="50px" style="margin-bottom:5px;" />
                         <p><?php echo $k['category_name'] ?></p>
                         </div>
                     </a>
